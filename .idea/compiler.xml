@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="com.template.clients.main" target="1.8" />
+      <module name="com.template.clients.test" target="1.8" />
+      <module name="com.template.cordapp-contracts-states.main" target="1.8" />
+      <module name="com.template.cordapp-contracts-states.test" target="1.8" />
+      <module name="com.template.cordapp-kotlin-vikram.main" target="1.8" />
+      <module name="com.template.cordapp-kotlin-vikram.test" target="1.8" />
+      <module name="com.template.cordapp.integrationTest" target="1.8" />
+      <module name="com.template.cordapp.main" target="1.8" />
+      <module name="com.template.cordapp.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

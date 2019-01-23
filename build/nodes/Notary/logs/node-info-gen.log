@@ -1,0 +1,14 @@
+2019-01-11 03:58:13,283 main WARN Unable to instantiate org.fusesource.jansi.WindowsAnsiOutputStream
+2019-01-11 03:58:13,299 main WARN Unable to instantiate org.fusesource.jansi.WindowsAnsiOutputStream
+
+   ______               __
+  / ____/     _________/ /___ _
+ / /     __  / ___/ __  / __ `/         Old bankers never die, they
+/ /___  /_/ / /  / /_/ / /_/ /          just... pass the buck
+\____/     /_/   \__,_/\__,_/
+
+--- Corda Open Source 3.3-corda (c834162) -----------------------------------------------
+
+
+Logs can be found in                    : C:\Users\Administrator\corda_bootcamp\cordapp-template-kotlin\build\nodes\Notary\logs
+Database connection url is              : jdbc:h2:tcp://10.44.206.251:65429/node

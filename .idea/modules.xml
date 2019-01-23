@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/clients/com.template.clients.iml" filepath="$PROJECT_DIR$/.idea/modules/clients/com.template.clients.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/clients/com.template.clients.main.iml" filepath="$PROJECT_DIR$/.idea/modules/clients/com.template.clients.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/clients/com.template.clients.test.iml" filepath="$PROJECT_DIR$/.idea/modules/clients/com.template.clients.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cordapp/com.template.cordapp.iml" filepath="$PROJECT_DIR$/.idea/modules/cordapp/com.template.cordapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cordapp-contracts-states/com.template.cordapp-contracts-states.iml" filepath="$PROJECT_DIR$/.idea/modules/cordapp-contracts-states/com.template.cordapp-contracts-states.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cordapp-contracts-states/com.template.cordapp-contracts-states.main.iml" filepath="$PROJECT_DIR$/.idea/modules/cordapp-contracts-states/com.template.cordapp-contracts-states.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cordapp-contracts-states/com.template.cordapp-contracts-states.test.iml" filepath="$PROJECT_DIR$/.idea/modules/cordapp-contracts-states/com.template.cordapp-contracts-states.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.template.cordapp-kotlin-vikram.iml" filepath="$PROJECT_DIR$/.idea/modules/com.template.cordapp-kotlin-vikram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.template.cordapp-kotlin-vikram.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.template.cordapp-kotlin-vikram.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.template.cordapp-kotlin-vikram.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.template.cordapp-kotlin-vikram.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cordapp/com.template.cordapp.integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/cordapp/com.template.cordapp.integrationTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cordapp/com.template.cordapp.main.iml" filepath="$PROJECT_DIR$/.idea/modules/cordapp/com.template.cordapp.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cordapp/com.template.cordapp.test.iml" filepath="$PROJECT_DIR$/.idea/modules/cordapp/com.template.cordapp.test.iml" />
+    </modules>
+  </component>
+</project>
